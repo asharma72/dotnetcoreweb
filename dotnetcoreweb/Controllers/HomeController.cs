@@ -10,6 +10,7 @@ namespace dotnetcoreweb.Controllers
 {
     public class HomeController : Controller
     {
+   //hfhfhfhg
         public IActionResult Index()
         {
             return View();
